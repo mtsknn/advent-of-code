@@ -1,6 +1,6 @@
 # Advent of Code
 
-My solution(s) to
+My solutions to
 [Advent of Code](https://adventofcode.com/),
 probably in JavaScript.
 :santa:
