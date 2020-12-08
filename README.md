@@ -5,6 +5,12 @@ My solutions to
 in JavaScript.
 :santa:
 
+If you have a question,
+spot an error
+or think that I could improve some of my solutions,
+please [open an issue](https://github.com/mtsknn/advent-of-code/issues).
+Thanks!
+
 - [2020/01](./2020/01.md)
 - [2020/02](./2020/02.md)
 - [2020/03](./2020/03.md)
