@@ -34,3 +34,5 @@ My favorite puzzles are marked with a star (:star:).
 - [2020/14](./2020/14.md)
 - [2020/15](./2020/15.md)
 - [2020/16](./2020/16.md) (Part 1)
+- 2020/17 coming later
+- [2020/18](./2020/18.md) :bulb: :star:
