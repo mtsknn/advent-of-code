@@ -39,4 +39,5 @@ My favorite puzzles are marked with a star (:star:).
 
 ## 2015
 
+- [2015/01](./2015/01.md)
 - [2015/04](./2015/04.md) :bulb: :star:
