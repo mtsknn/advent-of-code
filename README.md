@@ -44,3 +44,4 @@ My favorite puzzles are marked with a star (:star:).
 - [2015/03](./2015/03.md) :bulb:
 - [2015/04](./2015/04.md) :bulb: :star:
 - [2015/05](./2015/05.md)
+- [2015/06](./2015/06.md) :bulb:
