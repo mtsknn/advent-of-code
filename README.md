@@ -48,3 +48,4 @@ My favorite puzzles are marked with a star (:star:).
 - [2015/07](./2015/07.md) :bulb: :star:
 - [2015/08](./2015/08.md)
 - [2015/09](./2015/09.md) :star:
+- [2015/10](./2015/10.md)
