@@ -50,3 +50,4 @@ My favorite puzzles are marked with a star (:star:).
 - [2015/09](./2015/09.md) :star:
 - [2015/10](./2015/10.md)
 - [2015/11](./2015/11.md)
+- [2015/12](./2015/12.md)
